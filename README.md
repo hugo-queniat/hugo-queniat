@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hugo Queniat</h1>
-<h3 align="center">Machine Learning & Statistics master student</h3>
+<h3 align="center">1st-year PhD Student in Statistics @ University of Warwick</h3>
 
-- 🔭 I am currently enrolled in the **Master MVA (Mathematics, Vision, Learning)** organized by **ENS Paris-Saclay, Université Paris-Saclay**.
+- 🔭 I graduated from the **Master MVA (Mathematics, Vision, Learning)** organized by **ENS Paris-Saclay, Université Paris-Saclay** in 2024.
 
-- 🧑‍💻 I studied Mathematics & Computer Science @ **Télécom Paris, Institut Polytechnique de Paris**.
+- 🧑‍💻 I also completed the MSc from **Télécom Paris, Institut Polytechnique de Paris** in 2024.
 
-- 📫 How to reach me **hugo.queniat@telecom-paris.fr**
+- 📫 How to reach me **hugo.queniat@warwick.ac.uk**
